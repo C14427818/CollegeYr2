@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-05-02 21:54+0100\n"
+"PO-Revision-Date: 2016-05-02 22:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: Language.py\n"
+
+#: Language.py:46 Language.py:77
+msgid "Login info"
+msgstr "Login info"
+
+#: Language.py:46
+msgid "Welcome to Webcourses Aman"
+msgstr "Welcome to Webcourses Aman"
+
+#: Language.py:51
+msgid "Login error"
+msgstr "Login error"
+
+#: Language.py:51
+msgid "Incorrect username"
+msgstr "Incorrect username or password"
+
+#: Language.py:54
+msgid "Username:"
+msgstr "Username:"
+
+#: Language.py:55
+msgid "Password:"
+msgstr "Password:"
+
+#: Language.py:65
+msgid "Keep me logged in"
+msgstr "Keep me logged in"
+
+#: Language.py:68
+msgid "Login"
+msgstr "Login"
+
+#: Language.py:72
+msgid "Forgot Password"
+msgstr "Forgot Password"
+
+#: Language.py:77
+msgid "An email has been sent to you."
+msgstr "An email has been sent to you."
+
+#: Language.py:85
+msgid "Email:"
+msgstr "Email:"
+
+#: Language.py:92
+msgid "submit"
+msgstr "submit"
+
+#: Language.py:129
+msgid "Settings"
+msgstr "Settings"
+
+#: Language.py:130
+msgid "Change Colour"
+msgstr "Change Colour"
+
+#: Language.py:156
+msgid "OOP"
+msgstr "OOP"
+
+#: Language.py:160
+msgid "Algorithims"
+msgstr "Algorithims"
+
+#: Language.py:164
+msgid "Chinese"
+msgstr "Chinese"
+
+#: Language.py:168
+msgid "Web Development"
+msgstr "Web Development"
+
+#: Language.py:172
+msgid "Maths"
+msgstr "Maths"
